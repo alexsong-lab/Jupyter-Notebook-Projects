@@ -1,0 +1,14 @@
+# Core
+fastai
+fastcore
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter & Development
+jupyter
+kagglehub
+
+
+
